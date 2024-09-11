@@ -1,4 +1,4 @@
-## Im interested in learning game design. Im working on Java skills. My favorite hobby is video games.
+## I
 
 <!--
 **clarkd3788/clarkd3788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
